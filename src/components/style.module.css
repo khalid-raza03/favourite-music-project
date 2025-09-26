@@ -1,6 +1,6 @@
 .fonts {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 14px;
+  font-size:  calc(12px + 8 * ((100vw - 320px) / 1600));
   font-weight: 600;
 }
 
