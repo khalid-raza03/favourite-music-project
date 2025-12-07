@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 * {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
 
 /* Hide scrollbar for Chrome, Safari and Opera */
 .scrollbar-hide::-webkit-scrollbar {
@@ -13,9 +13,8 @@
 .scrollbar-hide {
   -ms-overflow-style: none;
   scrollbar-width: none;
-}
+      }
 
-
-.bg-custom{
-    background: linear-gradient(120deg, #8622ae, #cba2f1);
+.bg-custom {
+  background: linear-gradient(120deg, #8622ae, #cba2f1);
 }
